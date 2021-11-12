@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xwnwho)]()
 <!-- <br />
 <div>
   <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=xwnwho&show_icons=true&theme=dracula" />
